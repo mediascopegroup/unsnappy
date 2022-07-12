@@ -1,7 +1,7 @@
 # Unsnappy
 With Unsnappy, you can easily remove Snap and snapd from your Ubuntu.
 
-Please note that this script was created due to requests from some users. Media Scope Group does not recommend removing any packages from your operating system.
+Please note that this script was created due to requests from some users. Media Scope Group does not recommend removing any packages from your operating system. Media Scope Group and contributors do not bear any responsibility for the effects and results of using this software.
 
 ## Contributing
 If you would like to contribute to this project, please follow this rules:
