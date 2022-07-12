@@ -28,4 +28,5 @@ snap remove core18;
 snap remove snapd-desktop-integration;
 rm -rf /var/cache/snapd/;
 apt autoremove --purge snapd;
-rm -rf ~/snap
+rm -rf ~/snap;
+apt install -y ubuntu-gnome-desktop
