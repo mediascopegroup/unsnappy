@@ -29,4 +29,4 @@ snap remove snapd-desktop-integration;
 rm -rf /var/cache/snapd/;
 apt autoremove --purge snapd;
 rm -rf ~/snap;
-apt install -y ubuntu-gnome-desktop
+#apt install -y ubuntu-gnome-desktop // Ubuntu GNOME Desktop
