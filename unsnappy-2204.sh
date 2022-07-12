@@ -1,5 +1,5 @@
 #!/bin/bash
-# Unsnappy
+# Unsnappy for Ubuntu 22.04 LTS
 # Copyright (c) 2022 Media Scope Group OÜ
 # Author: Dawid Wiktor
 # Email: info@mediascope.group
